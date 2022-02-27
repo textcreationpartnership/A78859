@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter to His right trusty, and well-beloved subjects, the Aldermen and Common-Councell of the city of London, to be communicated to all His loyall subjects within the cities of London and Westminster. Brought by the Duke of Richmond. Novemb. 7. 1648. And Col. Hammonds declaration concerning the King, for preservation of His royall person from the hands of His enemies; and his protestation touching the same. With a message from the army to the said Col. Hamond, and their propositions and desires touching the person of the King, and their design touching the treaty. Dated at Newport Nevem. 6. and brought by the post Yesterday.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78859</idno>
+            <idno type="STC">Wing C2401A</idno>
+            <idno type="STC">Thomason E470_18</idno>
+            <idno type="STC">ESTC R205641</idno>
+            <idno type="EEBO-CITATION">99864961</idno>
+            <idno type="PROQUEST">99864961</idno>
+            <idno type="VID">162390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162390)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter to His right trusty, and well-beloved subjects, the Aldermen and Common-Councell of the city of London, to be communicated to all His loyall subjects within the cities of London and Westminster. Brought by the Duke of Richmond. Novemb. 7. 1648. And Col. Hammonds declaration concerning the King, for preservation of His royall person from the hands of His enemies; and his protestation touching the same. With a message from the army to the said Col. Hamond, and their propositions and desires touching the person of the King, and their design touching the treaty. Dated at Newport Nevem. 6. and brought by the post Yesterday.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Rishton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page one has caption title: Joyfull newes for the Princes Navie and a great victory obtuined [sic] at sea: with the particulars thereof, and the manner of the fight. Sent in a letter from the navy the 4 of Novemb. 1648.</note>
+                  <note>Annotation on Thomason copy: "nou. 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162390:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES LETTER TO His Right Truſty, and Well-beloved Subjects, the Alder<g ref="char:EOLhyphen"/>men and Common-Councell of the City of <hi>London,</hi> to be communicated to all His loyall Subjects within the Cities of <hi>London</hi> and <hi>Weſtminſter.</hi>
+            </p>
+            <p>
+               <hi>Brought by the Duke of</hi> Richmond, <hi>Novemb.</hi> 7. 1648.</p>
+            <p>And Col. <hi>Hammonds</hi> Declaration concerning the <hi>King,</hi> for preſervation of His Royall Perſon from the hands of His Enemies; and his Proteſtation touching the ſame.</p>
+            <p>With a Meſſage from the Army to the ſaid Col. <hi>Hamond,</hi> and their Propoſitions and Deſires touching the perſon of the <hi>King,</hi> and their Deſign touching the <hi>Treaty.</hi>
+            </p>
+            <p>
+               <hi>Dated at Newport Novem.</hi> 6. <hi>and brought by the Poſt yeſterday.</hi>
+            </p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>London</hi> Printed for <hi>R. RISHTON,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:162390:2"/>
+            <pb n="1" facs="tcp:162390:2"/>
+            <head>JOYFULL NEWES From the Princes NAVIE AND A great Victory obtu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned at Sea: With the particu<g ref="char:EOLhyphen"/>lars thereof, and the manner of the Fight. Sent in a Letter from the Navy the 4 of <hi>Novemb.</hi> 1648.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Thurſday laſt being the 2. of this inſtant Novem. we received an Allarum from Sea, occaſioned by certaine ſhips, who had the
+<pb n="2" facs="tcp:162390:3"/>Princes colours, and ſtruck ſayl within three leagues of <hi>Helverd-ſtuce;</hi> whereupon the Lord Amirall ſent forth three Frigats, and two of the great Veſſels, who chaſed them, and gave them many a gallant ſhot, and after few hours diſpute, boarded one of them, &amp; ſunk another; the Maſter of the prize which was taken, con<g ref="char:EOLhyphen"/>feſſed, that they were bound for the Prince, with a re<g ref="char:EOLhyphen"/>ſolution to joyn with him, and to aſſiſt his Highneſſe a<g ref="char:EOLhyphen"/>gainſt the Parliament.</p>
+            <p>This Fleet is ſaid to conſiſt of about eleven ſhips, moſt of them being men of Warre, and it is rumour'd, that they were moſt of them Swediſh Ships.</p>
+            <p>But the Princes Fleet hath declared, that they will not be commanded by any ſtrangers, who ſince the diſ<g ref="char:EOLhyphen"/>miſſing of the Lord <hi>VVilloughby,</hi> and Capt. <hi>Batten,</hi> have made Prince <hi>Rupert</hi> Lord Admirall; but the Sea-men were ſo much inraged and troubled thereat, that they began to mutiny, reſiſted the Command of Pr. <hi>Rupert</hi> and the reſt of the Iriſh and Dutch Commanders<g ref="char:punc">▪</g> fell to blowes, killed 3 or 4 eminent Commanders, woun<g ref="char:EOLhyphen"/>ded divers of them, amongſt the reſt, Prince <hi>Rupert</hi> hath received a dangerous wound, and its thought mor<g ref="char:EOLhyphen"/>tall. The Conflict being ended, the Mariners of the re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olted ſhips called a Councell amongſt themſelves, turned <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut Pr. <hi>Rupert,</hi> and divers others, and have made choice of new Commanders.</p>
+            <p>They have ſent a Letter to the Prince of <hi>Wales,</hi> to in<g ref="char:EOLhyphen"/>vite him aboard; but by reaſon of the weakneſſe of his body, occaſioned by ſudden ſickneſſe, and a dangerous diſeaſe, He cannot anſwer their expectations.</p>
+            <p>The Lord Admiral hath again offered them Indem<g ref="char:EOLhyphen"/>nity,
+<pb facs="tcp:162390:3"/>and it is conceived they will embrace the ſame, for they have proteſted to his Lordſhip, never to in<g ref="char:EOLhyphen"/>gage with the Princes Cavalry; The Lord Admirall hath ſent a Declaration to them, advertizing.</p>
+            <p>
+               <hi>That He will uſe his utmoſt endeavours towards the ſetling of truth, and a happy peace in this unſetled Church and Kingdom, and that He will be instrumentall for the bringing of his Majeſty to London, and ſetling of His Maieſty, the Prince of</hi> Wales, <hi>the Duke of</hi> York, <hi>and the reſt of His Royall Iſsue in their juſt Rights and privi<g ref="char:EOLhyphen"/>ledges, ſ ſoon as His Majesty ſhall be pleaſed to ſatisfie and confirme the Deſires of his two Houſes of Parliament ſo much tending to the good and preſervation both of Re<g ref="char:EOLhyphen"/>ligion, Crown and Lingdoms.</hi>
+            </p>
+            <p>Some Overtures have been lately made betweene his Highneſſe the Prince of <hi>Wales,</hi> and his Lordſhip, in relation to a conjunction and uniting of both Navies; but his Lordſhip hath utterly deteſted againſt the ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, ſlighting the Princes invitation and repreſenting a Letter unto his Highneſſe, That he takes it as the greateſt diſhonour that can be incident to man, for any Perſonage whatſoever to betray the truſt repoſed in him, and that He is reſolved to ſacrifice his life in the Cauſe and Engagement which he hath undertaken, not doubting but that the omnipotent God of Heaven (to whom the Honour of his Engagement doth belong) will cauſe the Wnids and Seas to fight for them, whoſe Truth is their Banner, Shield and Bucker; and therefore dehorts his Highneſſe to perſiſt no longer in the way he is in, but forthwith to come in, and unite himſelf with the Parliament, that ſo his perſon may be preſerved from all violence and injury, and a reſto<g ref="char:EOLhyphen"/>ration made of all due Rights and priviledges, and that he may render himſelf inſtrumentall for the compo<g ref="char:EOLhyphen"/>ſing of all differences, and eſtabllſhing of a firme and
+<pb n="4" facs="tcp:162390:4"/>laſting Peace throughout His Fathers Realmes and Dommions.</p>
+            <p>This Letter is ſaid to be ſent from aboard the St. <hi>George,</hi> to the Prince at <hi>Helver-Sluce,</hi>
+            </p>
+            <p>Letters further from the Navy ſay, That the Prince is deſirous to ſpin out ſome longer time at <hi>Goree</hi> be<g ref="char:EOLhyphen"/>fore he puts to Sea, in expectation of what the Treaty wil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> produce, and that if it takes not effect, he is reſol<g ref="char:EOLhyphen"/>ved for <hi>Ireland,</hi> to joyn with the Marquis of <hi>Ormond,</hi> and the Lord <hi>Inchiqueen,</hi> and to land an Army in the Weſt of <hi>England</hi> at the Spring, for the re-inveſting of the King, and reſtoring of Him to his juſt Rights, Po<g ref="char:EOLhyphen"/>wer and Authority</p>
+            <p>The ſaid Letters do further intimate, That the Lord high Admirall hath received a Letter from his Maje<g ref="char:EOLhyphen"/>ſty, purporting things of great concernment, and how farre he hath condeſcended to the deſires of his two Houſes, deſiring him to be inſtrumentall for the ſet<g ref="char:EOLhyphen"/>ling of a firm and laſting peace.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>From aboard the St. George <hi>4.</hi> Novemb. <hi>1648.</hi> From the Iſle of Wight thus.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce my laſt, Here hath hapned ſeverall Overtures between his Majeſty and the Parliaments Commiſ<g ref="char:EOLhyphen"/>ſioners; they have had much debate upon the Propo<g ref="char:EOLhyphen"/>ſitions, eſpecially that concerning the Church, which the King ſtuck much at; but the dark Cloud being ex<g ref="char:EOLhyphen"/>pelled, and the ſplendor of the Goſpell ſhining moſt gloriouſly in the eyes of his Majeſty, He was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to declare his Royall Aſſent to all the Propoſitions, and to grant His Royall Word to paſſe all things deſired by his two Houſes, that may be agreeable and conſonant to the fundamentall Lawes
+<pb n="6" facs="tcp:162390:4"/>of this Kingdom. And as to the buſines of the Church (which is all they ſtick at) the King hath promiſed to give his concurrence therein, rather then his People ſhall ſuffer for his diſ-aſſenting. And 14 dayes more being added to the <hi>Treaty,</hi> it is hoped a fair concluſion will attend the happy beginning. His Majeſty hath de<g ref="char:EOLhyphen"/>livered another Paper to the Commiſſioners, which I have here inſerted, <hi>viz.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>CHARLES R.</signed>
+                  </opener>
+                  <p>HIs Majeſty reſteth very much unſatisfied, That you have now again wholly declined the anſwe<g ref="char:EOLhyphen"/>ring of thoſe three queſtions ſo clearly propoſed by him, which your ſelves alſo confeſſe to be of grea im<g ref="char:EOLhyphen"/>portance, upon this only pretence, <hi>That the whole volumn of Eccleſiasticall policy is contained in them:</hi> Whereas his Majeſty did neither expect nor require from you any large or polemicall Diſcourſe concerning thoſe Queſtions conceiving that you were in ſome ſort ob<g ref="char:EOLhyphen"/>liged to have declared what your judgment was there<g ref="char:EOLhyphen"/>in, with the grounds thereof. For certainly untill one of theſe three things can be clearly evidenced unto his Maj. 1. Either that there is no certain form of Church Government at all preſcribed in the Word. 2 That the Civill power may change the fame as they ſee cauſe. 3 Or if it be unchangable, that it was not Epiſcopall, but ſome other, his Maj. thinks himſelf excuſable in the judgment of all reaſonable men, if he cannot be indu<g ref="char:EOLhyphen"/>ced to give his conſent to the utter abolition of that Government of the Church which he found here ſet<g ref="char:EOLhyphen"/>led to his hands, which hath continued all over the Chriſtian world, from the times of the Apoſtles untill this laſt Age.</p>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:162390:5"/>
+            <p>And for the better faciliating the Work in hand, we hear that his <hi>Majesty</hi> hath ſent a Meſſage (by the D. of <hi>Lenox</hi>) to the Aldermen and Common-councell of the City of <hi>London,</hi> and alſo to divers members of both Houſes, intimating, <hi>That He deſired a longer time to be added to the Treaty, deſiring them to be inſtrumen<g ref="char:EOLhyphen"/>tall for the re-inveſting of his Maieſty, and to agitate for his ſpeedy comming to</hi> London, with other remarkable Occurrences, which He deſires may be cammunicated to his Royall hearted Citizens, and that they may ſeri<g ref="char:EOLhyphen"/>ouſly read and peruſe the ſame. It is conceived his Ma<g ref="char:EOLhyphen"/>jeſty hath ſome notable deſign againſt the Army, for He hath vowed to play a new Game, if the Treaty take not effect. But upon the cloſe of this Letter, here arrived a <hi>Poſt</hi> from the Army to Col. <hi>Hamond,</hi> deſiring him to be vigilant for the laſt 14 dayes added to the <hi>Treaty,</hi> and to prevent his <hi>Maieſties</hi> eſcape there being a deſign laid for the conveying of his perſon away, if he cannot accompliſh his deſires in the ſaid reſpit of time. Col. <hi>Hamond</hi> is extraordinary vigilant in mana<g ref="char:EOLhyphen"/>ging the great truſt repoſed in Him, and hath declared <hi>that he will uſe his utmost endeavours for the preſerva<g ref="char:EOLhyphen"/>tion of His Majeſties Royall perſon from the hands of his Enemies, and to protect him from the rage and ſubtilty of thoſe who ſeek his Maieſties ruine</hi> [meaning the Royall party now reſident at his Court] <hi>And the Souldiery doe aſsure him, they will live and die with him therein.</hi>
+            </p>
+            <closer>
+               <dateline>Newport <date>6 Novemb. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
